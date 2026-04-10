@@ -7,7 +7,6 @@ We prioritize privacy, data ownership, and transparent design—avoiding dark pa
 
 <!-- Our current focus is **Hestia**, a household budgeting and wealth management application.  -->
 
-<hr style="height: 1px; width: 50%; color: dark-grey" />
 
 ## Solutions Bebleo
 
